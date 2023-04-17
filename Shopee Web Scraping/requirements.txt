@@ -1,7 +1,5 @@
-import schedule
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
-from bs4 import BeautifulSoup
-import pandas as pd
+pandas==1.5.3
+schedule==1.1.0
+selenium==4.8.2
+webdriver-manager==3.8.5
+beautifulsoup4==4.11.1
