@@ -3,7 +3,7 @@ ETL Script Using Python and Prefect
 
 [Description]
 =================================================
-*Disclaimer: This project is from Datatalks Club Youtube channel.
+*Disclaimer: This project is from Datatalks Club Youtube channel. I have reproduced the code and included it in this GitHub repository to showcase my skills and knowledge. Please note that the code is based on the tutorial, and any errors or issues should be attributed to my implementation.
 
 - web_to_gcs.py allows users to download datasets from New York Taxi and Limousine Commission Website. The script is mainly for gathering Taxi Trips only. Users are required to specify the color of the taxi('yellow' or 'green'), month, and year of the data they want to access.
 
